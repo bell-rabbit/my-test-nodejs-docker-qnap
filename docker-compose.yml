@@ -1,0 +1,9 @@
+version: "3.9"  # optional since v1.27.0
+
+services:
+  web:
+    build: .
+    ports:
+      - "4999:8080"
+    image: "bell-rabbit/my-test-nodejs-docker-qnap:latest"
+

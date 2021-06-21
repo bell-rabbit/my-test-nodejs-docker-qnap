@@ -1,2 +1,5 @@
 node_modules
 npm-debug.log
+uploads/*
+test-image.png
+test-update-api.http
