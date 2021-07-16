@@ -42,6 +42,11 @@
    2. Create Container
       <img src="/example/qnap-create-container.png" alt="qnap-create-container.png"/>
       <img src="/example/qnap-create-container.png" alt="qnap-create-container_1.png"/>   
+      <img src="/example/qnap-create-container.png" alt="qnap-create-container_2.png"/>   
+      <img src="/example/qnap-create-container.png" alt="qnap-create-container_3.png"/>   
+   3. OK
+      <img src="/example/qnap-create-container.png" alt="qnap-create-container_4.png"/>
+      
    
 ## Deploy to Raspberry Pi
 
