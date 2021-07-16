@@ -38,8 +38,8 @@
 1. Login Qnap by SSH
 2. Get your Image in GitHub
 3. Create your Container in QNAP Container Station UI.
-
-
+   1. Goto ContainerStation
+   
 ## Deploy to Raspberry Pi
 
 1. Get your Image in GitHub
