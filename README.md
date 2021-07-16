@@ -37,13 +37,14 @@
 ## Deploy to QNAP Container Station
 1. Login Qnap by SSH
 2. Get your Image in GitHub
-6. Create your Container in QNAP Container Station UI.
+3. Create your Container in QNAP Container Station UI.
+
 
 ## Deploy to Raspberry Pi
 
 1. Get your Image in GitHub
 2. list docker image
-   ```console
+   ```console  
    $ sudo docker image ls
    ```
 3. Run Image
