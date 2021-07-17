@@ -1,6 +1,6 @@
 # my-test-nodejs-docker-qnap
-## Login your GitHub Account
 
+## Login your GitHub Account
 1. Create the GitHub PAT. <br>
    [https://github.com/settings/tokens](https://github.com/settings/tokens)
    ```console
@@ -19,7 +19,7 @@
     $ docker pull docker.pkg.github.com/bell-rabbit/my-test-nodejs-docker-qnap/my-test-nodejs-docker-qnap:v1.0.0.0
     ```
 
-## Creat the docker image in GitHub
+## Creat the docker image in GitHub Package
 1. Build Docker
    ```console
    $ docker build -t my-test-nodejs-docker-qnap-arm-v7 --no-cache --platform linux/arm/v7 .
@@ -46,6 +46,9 @@
       <img src="/example/qnap-create-container.png" alt="qnap-create-container_3.png"/>   
    3. OK
       <img src="/example/qnap-create-container.png" alt="qnap-create-container_4.png"/>
+      
+<span style="color:red">The Username is not supported the "-" or "@" char in the "Add Registry" function.</span>.
+   <img src="/example/qnap-create-container.png" alt="qnap-create-container_5.png"/>
       
    
 ## Deploy to Raspberry Pi
