@@ -49,7 +49,6 @@
       
    
 ## Deploy to Raspberry Pi
-
 1. Get your Image in GitHub
 2. list docker image
    ```console  
@@ -65,5 +64,10 @@
    ```
 5. delete container (IF)
    ```console
-   $ sudo docker container rm 6c638d95e5e4
+   $ sudo docker container rm <your_container_id>
    ```
+
+## How To Test
+1. Create the `multipart/form-data` POST Request
+2. POST to http://<your_ip>:<your_port>/uploadTest
+3. Open your upload image in http://<your_ip>:<your_port>/img/<response_file_name>
