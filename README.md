@@ -1,6 +1,4 @@
-# my-test-nodejs-docker-qnap
-![Test-in](https://img.shields.io/badge/QNAP-TS--673-brightgreen) 
-![Test-in](https://img.shields.io/badge/Raspberry--pi-4B-brightgreen)
+# my-test-nodejs-docker-qnap ![Test-in](https://img.shields.io/badge/QNAP-TS--673-brightgreen) ![Test-in](https://img.shields.io/badge/Raspberry--pi-4B-brightgreen)
 
 ## Login your GitHub Account
 1. Create the GitHub PAT. <br>
