@@ -1,4 +1,6 @@
 # my-test-nodejs-docker-qnap
+![Test-in](https://img.shields.io/badge/QNAP-TS--673-brightgreen) 
+![Test-in](https://img.shields.io/badge/Raspberry--pi-4B-brightgreen)
 
 ## Login your GitHub Account
 1. Create the GitHub PAT. <br>
@@ -41,14 +43,14 @@
    1. Goto ContainerStation
    2. Create Container
       <img src="/example/qnap-create-container.png" alt="qnap-create-container.png"/>
-      <img src="/example/qnap-create-container.png" alt="qnap-create-container_1.png"/>   
-      <img src="/example/qnap-create-container.png" alt="qnap-create-container_2.png"/>   
-      <img src="/example/qnap-create-container.png" alt="qnap-create-container_3.png"/>   
+      <img src="/example/qnap-create-container_1.png" alt="qnap-create-container_1.png"/>   
+      <img src="/example/qnap-create-container_2.png" alt="qnap-create-container_2.png"/>   
+      <img src="/example/qnap-create-container_3.png" alt="qnap-create-container_3.png"/>   
    3. OK
-      <img src="/example/qnap-create-container.png" alt="qnap-create-container_4.png"/>
+      <img src="/example/qnap-create-container_4.png" alt="qnap-create-container_4.png"/>
       
-<span style="color:red">The Username is not supported the "-" or "@" char in the "Add Registry" function.</span>.
-   <img src="/example/qnap-create-container.png" alt="qnap-create-container_5.png"/>
+### The Username is not supported the "-" or "@" char in the "Add Registry" function.
+   <img src="/example/qnap-create-container_5.png" alt="qnap-create-container_5.png"/>
       
    
 ## Deploy to Raspberry Pi
